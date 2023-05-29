@@ -2,7 +2,7 @@
 
 
 ## Getting Started
-Open your favorite Terminal in folder with those files and run following commands:
+Open your favorite Terminal in folder with those files and use following commands:
 
 To compile contracts:
 
