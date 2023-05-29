@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "http": "^0.0.1-security",
+    "http-server": "^14.1.1",
+    "server": "^1.0.38"
+  },
+  "dependencies": {
+    "moralis": "^2.21.0",
+    "react-moralis": "^1.4.2",
+    "web3uikit": "^1.0.4"
+  }
+}
