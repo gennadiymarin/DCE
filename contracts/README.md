@@ -1,27 +1,26 @@
-# Smart-contracts for Decentralized Commodity Exchange
+# Smart-Contracts for Decentralized Commodity Exchange
+## Quickstart
 
+```sh
+git clone git@github.com:gennadiymarin/DCE.git
+cd contracts
+yarn
+```
 
-## Getting Started
-Open your favorite Terminal in folder with those files and use following commands:
-
-To compile contracts:
-
+## Usage
+### Compile contracts:
 ```sh
 yarn hardhat compile
 ```
-To deploy contracts:
-
+### Deploy contracts:
 ```sh
 yarn hardhat deploy
 ```
-
-To run tests:
-
+### Run tests:
 ```sh
 yarn hardhat test
 ```
-To check coverage of tests:
+### Check tests coverage:
 ```sh
 yarn hardhat coverage
 ```
-
