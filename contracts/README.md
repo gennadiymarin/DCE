@@ -1,13 +1,27 @@
-# Sample Hardhat Project
+# Smart-contracts for Decentralized Commodity Exchange
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+## Getting Started
+Open your favorite Terminal in folder with those files and run following commands:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+To compile contracts:
+
+```sh
+yarn hardhat compile
 ```
+To deploy contracts:
+
+```sh
+yarn hardhat deploy
+```
+
+To run tests:
+
+```sh
+yarn hardhat test
+```
+To check coverage of tests:
+```sh
+yarn hardhat coverage
+```
+
